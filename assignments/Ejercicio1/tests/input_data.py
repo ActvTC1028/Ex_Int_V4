@@ -11,7 +11,7 @@ input_values = [
     ),
     # Test case 2
     (
-    ["3"],
+    ["5"],
     ["Ingresa el tamaño de la lista, debe ser par: ","Error"],
     ["Qué pasa si no recibes un entero par positivo"]
     )
